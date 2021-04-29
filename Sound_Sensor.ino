@@ -1,6 +1,4 @@
-// test code for Grove - Sound Sensor
-// loovee @ 2016-8-30
- 
+
 const int pinAdc = A0;
  
 void setup()
